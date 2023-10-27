@@ -56,26 +56,38 @@ Business Questions :
 <li>Calculate the percentage of restaurants that serve each of the top cuisines ?</li>
 <P>It was [ barbeque Nation – pind Balluchi – Punjab Grill ……] these restaurant serva the most or the top Cuisines you can find more restaurants in Dashboard Level 1
 </P>
-								
-o	Task02: City Analysis			
-	(Q3) Identify the city with the highest number of restaurants in the dataset ?	
--	The city that have most number of restaurants where number restaurant reach to more than 5000 restaurant was [ New Delhi ] and there are more cities have more than 1000 restaurants like [Gurgoan – Noida ]
-	(Q4) Calculate the average rating for restaurants in each city. ?
--	The average rating for restaurant was between            [ 1.8 – 4.9 ] and I found there are restaurant have high rating like ( inner city – queozencity – makati city – passig city – mandaluyoung city – beechworth city – London – Taguig city  - lincoin – Secunderabad – tagytay ) these city have rating between [ 4.5 – 4.9] so I think they are the best restaurants  
-	(Q5) Determine the city with the highest average rating…?	
--	I found there are restaurant have high rating like ( inner city – queozencity – makati city – passig city – mandaluyoung city – beechworth city – London – Taguig city  - lincoin – Secunderabad – tagytay ) these city have rating between [ 4.5 – 4.9] so I think they are the best restaurants  
-o	Task03: Price Range Distribution						
-	(Q6) Create a histogram or bar chart to visualize the distribution of price ranges among the restaurants  .?	
-•	        	We have 2 ranges or intervals ( [ 1 – 2 ] , [ 3 – 4 ] ) and after make analysis on it I found the interval [ 1 – 2 ] is most common more than the other interval where values were ( 7600k , 200K) that mean the most resturants of price in range [1 – 2] price range 			
-	(Q7) Calculate the percentage of restaurants in each price range category ?		
-•	I tried to divide the ranges in these comparssion [ poor price (1)  – lower price (2)  – medium price (3) – high price (4)  ] , so I found the most common kind of price range was poor price with rate  46.53% and come after it lower price by rate  14.75 % and after it high price 6.14% , so we need to focus on the poor price category as it’s more common where the customer prefer it
-							
-o	Task04: Online Delivery				
-	(Q8) Determine the percentage of restaurants that offer online delivery..?			
-	*	After conducting an analysis of customer preferences regarding online delivery, it was observed that a majority of customers, approximately 74.34%, do not opt for online delivery. This indicates that not having online delivery is the more common choice among customers.However, it is worth noting that the remaining customers, accounting for the remaining 25.66%, do prefer online delivery. This suggests that there is still a significant portion of the customer base that values the convenience and accessibility offered by online delivery services.These findings shed light on the importance of providing online delivery options for restaurants. While a majority of customers may not currently utilize this service, there is a substantial market segment that does. By offering online delivery, restaurants have the opportunity to cater to the needs and preferences of these customers, potentially increasing their customer base and overall satisfaction.These insights are valuable for businesses in the food industry as they make decisions regarding the implementation of online delivery services.		
-	(Q9) Compare the average ratings of restaurants with and without online delivery.?	
-•	According to the data analysis, it was observed that the average rating of restaurants offering online delivery is more prevalent compared to those that do not provide this service. The results indicate that approximately 56.86% of the restaurants with online delivery have higher ratings, while 43.14% of the restaurants without online delivery have lower ratings.This finding suggests a positive correlation between online delivery services and customer satisfaction, as indicated by the higher average ratings. It is important to note that the availability of online delivery may contribute to increased convenience and accessibility for customers, which could positively impact their overall dining experience.These results provide valuable insights into the preferences and expectations of customers when it comes to restaurant services. 
-
+</ol>
+</p>
+<p>
+<ul>
+<h4>Task02: City Analysis : </h4>			
+<li> Identify the city with the highest number of restaurants in the dataset ?</li>	
+<p>The city that have most number of restaurants where number restaurant reach to more than 5000 restaurant was [ New Delhi ] and there are more cities have more than 1000 restaurants like [Gurgoan – Noida ]</p>
+<li> Calculate the average rating for restaurants in each city. ?</li>
+<p>The average rating for restaurant was between[ 1.8 – 4.9 ] and I found there are restaurant have high rating like ( inner city – queozencity – makati city – passig city – mandaluyoung city – beechworth city – London – Taguig city  - lincoin – Secunderabad – tagytay ) these city have rating between [ 4.5 – 4.9] so I think they are the best restaurants</p>  
+<li> Determine the city with the highest average rating…?	</li>
+<p>I found there are restaurant have high rating like ( inner city – queozencity – makati city – passig city – mandaluyoung city – beechworth city – London – Taguig city  - lincoin – Secunderabad – tagytay ) these city have rating between [ 4.5 – 4.9] so I think they are the best restaurants  </p>
+</ul>
+</p>
+<p>
+<ul>
+<h3>Task03: Price Range Distribution : </h3>						
+<li>Create a histogram or bar chart to visualize the distribution of price ranges among the restaurants  .?</li>	
+<p>We have 2 ranges or intervals ( [ 1 – 2 ] , [ 3 – 4 ] ) and after make analysis on it I found the interval [ 1 – 2 ] is most common more than the other interval where values were ( 7600k , 200K) that mean the most resturants of price in range [1 – 2] price range </p>			
+<li> Calculate the percentage of restaurants in each price range category ?	</li>	
+<p>I tried to divide the ranges in these comparssion [ poor price (1)  – lower price (2)  – medium price (3) – high price (4)  ] , so I found the most common kind of price range was poor price with rate  46.53% and come after it lower price by rate  14.75 % and after it high price 6.14% , so we need to focus on the poor price category as it’s more common where the customer prefer it</p>
+</ul>
+</p>
+<p>
+<ul>
+<h3>Task04: Online Delivery</h3>				
+<li>Determine the percentage of restaurants that offer online delivery..?</li>			
+<P>After conducting an analysis of customer preferences regarding online delivery, it was observed that a majority of customers, approximately 74.34%, do not opt for online delivery. This indicates that not having online delivery is the more common choice among customers.However, it is worth noting that the remaining customers, accounting for the remaining 25.66%, do prefer online delivery. This suggests that there is still a significant portion of the customer base that values the convenience and accessibility offered by online delivery services.These findings shed light on the importance of providing online delivery options for restaurants. While a majority of customers may not currently utilize this service, there is a substantial market segment that does. By offering online delivery, restaurants have the opportunity to cater to the needs and preferences of these customers, potentially increasing their customer base and overall satisfaction.These insights are valuable for businesses in the food industry as they make decisions regarding the implementation of online delivery services.	</P>
+	
+<li>(Q9) Compare the average ratings of restaurants with and without online delivery.?	</li>
+<p>According to the data analysis, it was observed that the average rating of restaurants offering online delivery is more prevalent compared to those that do not provide this service. The results indicate that approximately 56.86% of the restaurants with online delivery have higher ratings, while 43.14% of the restaurants without online delivery have lower ratings.This finding suggests a positive correlation between online delivery services and customer satisfaction, as indicated by the higher average ratings. It is important to note that the availability of online delivery may contribute to increased convenience and accessibility for customers, which could positively impact their overall dining experience.These results provide valuable insights into the preferences and expectations of customers when it comes to restaurant services. </p>
+</ul>
+</p>
 •	Level 02 :
 o	Task01: Restaurant Ratings:					
 	(Q1)  Analyze the distribution of aggregate ratings and determine the most common rating range?	
