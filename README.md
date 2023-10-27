@@ -1,34 +1,35 @@
 # Data-Analysis-Internship-Cognifzy-tecnology
 Cognifyz: Data Analyst Internship
 
-about the project  : 
+<p> <p>about the project :</p> 
  Welcome to our exciting Data Analysis  internship program! To complete this internship, you will
  have the chance to choose any 2 of 3 levels: Level 1, Level 2, or Level 3. We've designed these levels
  to cater to your convenience and ensure an engaging and rewarding experience. Additionally, the
  successful completion of Level 3 ( any 2 task out of 3) will further enhance your chances of receiving
- a stipend
- 
-Dataset : 
-•	Columns :
-o	Restaurant ID : this is the ID of the Restaurant
-o	Restaurant Name : Name of the restaurant
-o	Country Code : code of the country
-o	City : the city customer live in it
-o	Address : The Full Address of the Customer
-o	Locality : the address of the City
-o	Locality Verbose : the long range of the address of City 
-o	Longitude	, Latitude : coordinates
-o	Cuisines :  the kind of the Kitchen( French – german – Japan- desserts )
-o	Average Cost for two : the average cost of 2 kinds of Kitchens
-o	Currency : the kind of coin
-o	Has Table booking : have a booking in the sceduale
-o	Has Online delivery : have a online delivery ?
-o	Is delivering now : are the delivering now ?
-o	Price range & Price Range Levels  : the pricing options or categories available at each restaurant. It helps users understand the cost range they can expect when dining at a particular restaurant. The column likely contains values such as “poor” , "Low," "Medium," , "High" to indicate the price range options.
-o	Aggregate rating :  the rate of the restaurant
-o	Rating color : the colors that customer rating it
-o	Rating text : here customer rate by using word
-o	Votes : how many people votes for each restaurant ?
+ a stipend</p>
+ <ul>
+<h3>Dataset</h3> : 
+<h4>Columns</h4> :
+	<li>Restaurant ID : this is the ID of the Restaurant</li>
+o	<li>Restaurant Name : Name of the restaurant</li>
+o	<li>Country Code : code of the country</li>
+o	<li>City : the city customer live in it</li>
+o	<li>Address : The Full Address of the Customer</li>
+o	<li>Locality : the address of the City</li>
+o	<li>Locality Verbose : the long range of the address of City </li>
+o	<li>Longitude, Latitude : coordinates</li>
+o	<li>Cuisines :  the kind of the Kitchen( French – german – Japan- desserts )
+o	Average Cost for two : the average cost of 2 kinds of Kitchens</li>
+o	<li>Currency : the kind of coin</li>
+o	<li>Has Table booking : have a booking in the sceduale</li>
+o	<li>Has Online delivery : have a online delivery ?</li>
+o	<li>Is delivering now : are the delivering now ?</li>
+o	<li>Price range & Price Range Levels  : the pricing options or categories available at each restaurant. It helps users understand the cost range they can expect when dining at a particular restaurant. The column likely contains values such as “poor” , "Low," "Medium," , "High" to indicate the price range options.</li>
+o	<li>Aggregate rating :  the rate of the restaurant</li>
+o	<li>Rating color : the colors that customer rating it</li>
+o	<li>Rating text : here customer rate by using word</li>
+o	<li>Votes : how many people votes for each restaurant ?</li>
+ </ul>
 
 
 
