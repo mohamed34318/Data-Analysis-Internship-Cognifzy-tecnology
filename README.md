@@ -71,7 +71,7 @@ Business Questions :
 </p>
 <p>
 <ul>
-<h3>Task03: Price Range Distribution : </h3>						
+<h4>Task03: Price Range Distribution : </h4>						
 <li>Create a histogram or bar chart to visualize the distribution of price ranges among the restaurants  .?</li>	
 <p>We have 2 ranges or intervals ( [ 1 – 2 ] , [ 3 – 4 ] ) and after make analysis on it I found the interval [ 1 – 2 ] is most common more than the other interval where values were ( 7600k , 200K) that mean the most resturants of price in range [1 – 2] price range </p>			
 <li> Calculate the percentage of restaurants in each price range category ?	</li>	
@@ -80,7 +80,7 @@ Business Questions :
 </p>
 <p>
 <ul>
-<h3>Task04: Online Delivery</h3>				
+<h4>Task04: Online Delivery</h4>				
 <li>Determine the percentage of restaurants that offer online delivery..?</li>			
 <P>After conducting an analysis of customer preferences regarding online delivery, it was observed that a majority of customers, approximately 74.34%, do not opt for online delivery. This indicates that not having online delivery is the more common choice among customers.However, it is worth noting that the remaining customers, accounting for the remaining 25.66%, do prefer online delivery. This suggests that there is still a significant portion of the customer base that values the convenience and accessibility offered by online delivery services.These findings shed light on the importance of providing online delivery options for restaurants. While a majority of customers may not currently utilize this service, there is a substantial market segment that does. By offering online delivery, restaurants have the opportunity to cater to the needs and preferences of these customers, potentially increasing their customer base and overall satisfaction.These insights are valuable for businesses in the food industry as they make decisions regarding the implementation of online delivery services.	</P>
 	
@@ -88,107 +88,147 @@ Business Questions :
 <p>According to the data analysis, it was observed that the average rating of restaurants offering online delivery is more prevalent compared to those that do not provide this service. The results indicate that approximately 56.86% of the restaurants with online delivery have higher ratings, while 43.14% of the restaurants without online delivery have lower ratings.This finding suggests a positive correlation between online delivery services and customer satisfaction, as indicated by the higher average ratings. It is important to note that the availability of online delivery may contribute to increased convenience and accessibility for customers, which could positively impact their overall dining experience.These results provide valuable insights into the preferences and expectations of customers when it comes to restaurant services. </p>
 </ul>
 </p>
-•	Level 02 :
-o	Task01: Restaurant Ratings:					
-	(Q1)  Analyze the distribution of aggregate ratings and determine the most common rating range?	
-•	 During the analysis process, the aggregating rating was divided into intervals to make the distribution more understandable. It was found that the majority of customers, around 21,000, rated restaurants within the range of 2 to 4. This indicates that the most common rating for restaurants falls within this interval.However, when looking at the higher ratings between 4 and 5, there were only 5,000 customers who rated restaurants within this range. This suggests that fewer customers gave ratings in the higher range.On the other hand, the lowest ratings between 0 and 2 had even fewer customers. This implies that there were a lower number of people who rated restaurants within this range.In summary, the analysis reveals that the most common rating for restaurants falls within the range of 2 to 4, while the higher ratings (4 to 5) and lower ratings (0 to 2) had relatively fewer customers.
+
+
+<h3>Level 02 :</h3>
+<ul>
+<p>
+<h4>Task01: Restaurant Ratings:</h4>					
+<li>Analyze the distribution of aggregate ratings and determine the most common rating range?	</li>
+<p> During the analysis process, the aggregating rating was divided into intervals to make the distribution more understandable. It was found that the majority of customers, around 21,000, rated restaurants within the range of 2 to 4. This indicates that the most common rating for restaurants falls within this interval.However, when looking at the higher ratings between 4 and 5, there were only 5,000 customers who rated restaurants within this range. This suggests that fewer customers gave ratings in the higher range.On the other hand, the lowest ratings between 0 and 2 had even fewer customers. This implies that there were a lower number of people who rated restaurants within this range.In summary, the analysis reveals that the most common rating for restaurants falls within the range of 2 to 4, while the higher ratings (4 to 5) and lower ratings (0 to 2) had relatively fewer customers.</p>
 					
-	(Q2) Calculate the average number of votes received by  restaurants?	
-•	After conducting the analysis, it was found that the following ten restaurants had the highest number of votes, arranged in descending order: Toit, Hauz Khas Social, Peter cat, Big Brewsky, The Black Pearl, BarBQ, Warehous Café, Truffles, Mocambo, and Gulati. These restaurants are more commonly preferred by customers compared to others.This information indicates that these ten restaurants have managed to attract a larger customer base and receive a higher number of votes. It suggests that customers have a strong preference for these establishments, possibly due to factors such as food quality, ambiance, service, or overall dining experience.Identifying these popular restaurants can be valuable for businesses in the food industry as they can gain insights into the factors that contribute to customer preference and satisfaction. By understanding the reasons behind the popularity of these establishments, other restaurants can potentially improve their offerings and strive to meet customer expectations.					
-o	Task02: Cuisine Combination		
-	(Q3) Identify the most common combinations of cuisines in the dataset ?	
-•	According to the analysis, the most prevalent combinations of cuisines, ranked in descending order, are as follows:
--	North Indian and Mughlai cuisine, accounting for 27.24% of the occurrences.
--	North Indian and Chinese cuisine, representing 24.82% of the combinations.
--	North Indian cuisine alone, comprising 21.29% of the total.
--	Chinese cuisine, contributing to 15.54% of the combinations.
--	Café cuisine, constituting 11.11% of the occurrences.
-These findings indicate that the combination of North Indian and Mughlai cuisines is the most frequently observed, followed by North Indian and Chinese cuisines. It is important to note that these results are specific to the analyzed dataset and may vary in different contexts or datasets.
-	(Q4) Determine if certain cuisine combinations tend to have higher ratings.. ?
-•	Based on a comprehensive analysis, specific cuisine combinations have emerged with consistently higher ratings than others. Notably, the average ratings indicate that combinations such as "North Indian - North Indian," "Chinese - North Indian," and "Mughlai - Café - Chinese" exhibit the highest levels of satisfaction among consumers. These findings underscore the preference for these particular culinary fusions, reflecting a noteworthy trend in elevated customer satisfaction. The discernment of these high-performing combinations provides valuable insights for culinary establishments seeking to optimize their menu offerings and enhance overall customer experience.
-o	Task03: Geographic Analysis						
-	(Q5) Plot the locations of restaurants on a map using longitude and latitude coordinates. .?		
-	* I make it and it show me a lot of restaurants in different countries 				
-	(Q6) Identify any patterns or clusters of restaurants in specific areas. ?	
-•	The spatial analysis of restaurant distributions reveals discernible clusters within specific localities, each characterized by a distinct culinary profile. These clusters are defined as follows:
-•	Waikiki:Culinary Profile: American, Asian, Burger
-•	Golf Course Road :Culinary Profile: American, Continental, Burger
-•	Athens:Culinary Profile: American, Burger, Sandwich
-•	Hyde Park:Culinary Profile: American, Desserts, Steak, Burger
-•	Windermere:Culinary Profile: [Specific cuisine profiles not provided]
-•	The Dubai Mall, Downtown Dubai:Culinary Profile: American, Desserts
-•	Restaurant Row:Culinary Profile: American
-•	Golf Course Road 
-•	Culinary Profile : American, Continental, Burger
-This categorization based on localities and their associated culinary profiles offers a strategic perspective for stakeholders aiming to understand the gastronomic landscape within specific regions. Such insights can inform decision-making processes related to marketing strategies, menu planning, and the establishment of new culinary ventures, fostering a nuanced understanding of consumer preferences in diverse locales.
-
+<li> Calculate the average number of votes received by  restaurants?	</li>
+<p>After conducting the analysis, it was found that the following ten restaurants had the highest number of votes, arranged in descending order: Toit, Hauz Khas Social, Peter cat, Big Brewsky, The Black Pearl, BarBQ, Warehous Café, Truffles, Mocambo, and Gulati. These restaurants are more commonly preferred by customers compared to others.This information indicates that these ten restaurants have managed to attract a larger customer base and receive a higher number of votes. It suggests that customers have a strong preference for these establishments, possibly due to factors such as food quality, ambiance, service, or overall dining experience.Identifying these popular restaurants can be valuable for businesses in the food industry as they can gain insights into the factors that contribute to customer preference and satisfaction. By understanding the reasons behind the popularity of these establishments, other restaurants can potentially improve their offerings and strive to meet customer expectations.</p>
+</ul>
+</p>
+<p>
+<ul>
+<h4>Task02: Cuisine Combination </h4>		
+<li>Identify the most common combinations of cuisines in the dataset ?	</li>
+<p> According to the analysis, the most prevalent combinations of cuisines, ranked in descending order, are as follows:
+	<ol>
+	<li>North Indian and Mughlai cuisine, accounting for 27.24% of the occurrences.</li>
+	<li>North Indian and Chinese cuisine, representing 24.82% of the combinations.</li>
+	<li>North Indian cuisine alone, comprising 21.29% of the total.</li>
+	<li>Chinese cuisine, contributing to 15.54% of the combinations.</li>
+	<li>Café cuisine, constituting 11.11% of the occurrences.</li>
+		</ol>
+These findings indicate that the combination of North Indian and Mughlai cuisines is the most frequently observed, followed by North Indian and Chinese cuisines. It is important to note that these results are specific to the analyzed dataset and may vary in different contexts or datasets.</p>
 	
-o	Task04: Restaurant Chains 
-	(Q7) Identify if there are any restaurant chains present in the dataset...?
-•	In the comprehensive evaluation of the culinary landscape, prominent restaurant chains have emerged as significant contributors to the gastronomic milieu. Among the multitude of chains, a discerning analysis reveals the prevalence of certain establishments that stand out for their widespread presence. The ten most frequently encountered restaurant chains, indicative of their ubiquity and consumer appeal, are as follows:
--	Café Coffee Day
--	Domino's Pizza
--	Subway
--	Green Chick Chop
--	McDonald's
--	Pizza Hut
--	Giani
--	Baskin Robbins
--	Barbeque Nation
-This identification of the most common restaurant chains not only underscores their market prevalence but also serves as valuable intelligence for stakeholders seeking insights into the competitive landscape and consumer preferences. This knowledge is pivotal for strategic decision-making, marketing endeavors, and understanding the dynamics of the contemporary culinary market.
+<li> Determine if certain cuisine combinations tend to have higher ratings.. ?</li>
+<p>Based on a comprehensive analysis, specific cuisine combinations have emerged with consistently higher ratings than others. Notably, the average ratings indicate that combinations such as "North Indian - North Indian," "Chinese - North Indian," and "Mughlai - Café - Chinese" exhibit the highest levels of satisfaction among consumers. These findings underscore the preference for these particular culinary fusions, reflecting a noteworthy trend in elevated customer satisfaction. The discernment of these high-performing combinations provides valuable insights for culinary establishments seeking to optimize their menu offerings and enhance overall customer experience.</p>
+</ul>
+</p>
+<p>
+<ul>
+<h4>Task03: Geographic Analysis</h4>						
+<li>Plot the locations of restaurants on a map using longitude and latitude coordinates. .?	</li>	
+	<p> I make it and it show me a lot of restaurants in different countries </p>				
+<li> Identify any patterns or clusters of restaurants in specific areas. ?	</li>
+<p>The spatial analysis of restaurant distributions reveals discernible clusters within specific localities, each characterized by a distinct culinary profile. These clusters are defined as follows:<ol>
+<li>Waikiki:Culinary Profile: American, Asian, Burger</li>
+<li>Golf Course Road :Culinary Profile: American, Continental, Burger</li>
+<li>Athens:Culinary Profile: American, Burger, Sandwich</li>
+<li>Hyde Park:Culinary Profile: American, Desserts, Steak, Burger</li>
+<li>Windermere:Culinary Profile: [Specific cuisine profiles not provided]</li>
+<li>The Dubai Mall, Downtown Dubai:Culinary Profile: American, Desserts</li>
+<li>Restaurant Row:Culinary Profile: American</li>
+<li>Golf Course Road </li>
+<li>Culinary Profile : American, Continental, Burger</li>
+	</ol>
+This categorization based on localities and their associated culinary profiles offers a strategic perspective for stakeholders aiming to understand the gastronomic landscape within specific regions. Such insights can inform decision-making processes related to marketing strategies, menu planning, and the establishment of new culinary ventures, fostering a nuanced understanding of consumer preferences in diverse locales.</p>
+</ul>
+</p>
+<p>
+<ul>
+<h4>Task04: Restaurant Chains : </h4> 
+<li>Identify if there are any restaurant chains present in the dataset...?</li>
+<p>In the comprehensive evaluation of the culinary landscape, prominent restaurant chains have emerged as significant contributors to the gastronomic milieu. Among the multitude of chains, a discerning analysis reveals the prevalence of certain establishments that stand out for their widespread presence. The ten most frequently encountered restaurant chains, indicative of their ubiquity and consumer appeal, are as follows:<ol>
+<li>Café Coffee Day</li>
+<li>Domino's Pizza</li>
+<li>Subway</li>
+<li>Green Chick Chop</li>
+<li>McDonald's</li>
+<li>Pizza Hut</li>
+<li>Giani</li>
+<li>Baskin Robbins</li>
+<li>Barbeque Nation</li>
+</ol>
+This identification of the most common restaurant chains not only underscores their market prevalence but also serves as valuable intelligence for stakeholders seeking insights into the competitive landscape and consumer preferences. This knowledge is pivotal for strategic decision-making, marketing endeavors, and understanding the dynamics of the contemporary culinary market.</p>
+</ul>
 
-	(Q8) Analyze the ratings and popularity of different restaurant chains..?	
-In the culmination of a meticulous analysis, certain restaurants have emerged as exemplars of high popularity, gauged by a confluence of both elevated ratings and a substantial volume of votes. The foremost establishments, distinguished by their commendable reputation and significant patron engagement, are as follows:
--	Toi
-	Total Votes: 10,934
--	Hauz Khas Social
-	Total Votes: 7,931
--	Peter Cat
-	Total Votes: 7,574
--	Truffles
-	Total Votes: 4,841
--	Joey’s
-	Total Votes: 3,903
-These establishments not only command noteworthy ratings but also have garnered a substantial number of votes, indicative of their widespread appeal and active patronage. Such insights are pivotal for industry stakeholders seeking to understand the dynamics of consumer engagement and make informed decisions in the competitive landscape of the culinary domain.
-			
-•	Level 03 :
-o	Task01: Restaurant Reviews: 					
-	(Q1) Analyze the text reviews to identify the most common positive and negative keywords?	
-•	In the analysis of textual ratings provided by patrons, a discernible pattern emerges, showcasing the prevalence of specific descriptors that encapsulate the overall sentiment toward various establishments. The most commonly encountered textual ratings, indicative of the collective sentiment expressed by diners, are:
--	Average
--	Not Rated
--	Good
--	Very Good
-These descriptors, recurrent in the assessments of diverse dining experiences, serve as key indicators of the nuanced feedback provided by patrons. Understanding the prominence of these specific textual ratings affords stakeholders valuable insights into the perceived quality of culinary offerings and aids in formulating strategies to enhance customer satisfaction.
-	(Q2) Calculate the average length of reviews and explore if there is a relationship between review length and rating.?
-•	 Average of length of reviews was 7 , but after we make a scatter plot between review length and rating I found there is no any relation between them 							
-o	Task02: Votes Analysis 
-	(Q3) Identify the restaurants with the highest and lowest number of votes?	
-For the highest-ranked restaurants:
-•	Barbeque Nation (28142 votes):
--	Example: Barbeque Nation's substantial vote count suggests it enjoys a high level of patronage.
+
+<li> Analyze the ratings and popularity of different restaurant chains..?	</li>
+<p>In the culmination of a meticulous analysis, certain restaurants have emerged as exemplars of high popularity, gauged by a confluence of both elevated ratings and a substantial volume of votes. The foremost establishments, distinguished by their commendable reputation and significant patron engagement, are as follows:<ol>
+<li>Toi : Total Votes: 10,934</li>
+<li>Hauz Khas Social : Total Votes: 7,931</li>
+<li>Peter Cat : Total Votes: 7,574</li>
+<li>Truffles : Total Votes: 4,841</li>
+<li>Joey’s : Total Votes: 3,903</li>
+</ol>
+These establishments not only command noteworthy ratings but also have garnered a substantial number of votes, indicative of their widespread appeal and active patronage. Such insights are pivotal for industry stakeholders seeking to understand the dynamics of consumer engagement and make informed decisions in the competitive landscape of the culinary domain.</p>
+</ul>
+</p>
+   
+<h3>Level 03 :</h3>
+<p><ul>	
+<h4>Task01: Restaurant Reviews:</h4> 					
+ <li>Analyze the text reviews to identify the most common positive and negative keywords?	</li>
+<p>In the analysis of textual ratings provided by patrons, a discernible pattern emerges, showcasing the prevalence of specific descriptors that encapsulate the overall sentiment toward various establishments. The most commonly encountered textual ratings, indicative of the collective sentiment expressed by diners, are:<ol>
+<li>Average</li>
+<li>Not Rated</li>
+<li>Good</li>
+<li>Very Good</li>
+</ol>
+These descriptors, recurrent in the assessments of diverse dining experiences, serve as key indicators of the nuanced feedback provided by patrons. Understanding the prominence of these specific textual ratings affords stakeholders valuable insights into the perceived quality of culinary offerings and aids in formulating strategies to enhance customer satisfaction.</p>
+
+<li> Calculate the average length of reviews and explore if there is a relationship between review length and rating.?</li>
+<p>Average of length of reviews was 7 , but after we make a scatter plot between review length and rating I found there is no any relation between them </p>	</ul>						
+</p>
+<p><ul>
+	
+<h4>Task02: Votes Analysis</h4> 
+<li>Identify the restaurants with the highest and lowest number of votes?</li>	
+<p><h5>For the highest-ranked restaurants:</h5><ul>
+<li>Barbeque Nation (28142 votes):</li>
+<p>
+	Example: Barbeque Nation's substantial vote count suggests it enjoys a high level of patronage.
 -	Use case: The restaurant's popularity may be attributed to its unique dining experience, diverse menu, or exceptional customer service.
+	</p>
+	<p>
 •	AB’s (13400 votes):
 -	Example: AB’s has garnered a considerable number of votes, reflecting positive customer opinions.
 -	Use case: Investigate what aspects of AB’s, such as its cuisine, ambiance, or location, contribute to its popularity.
-•	Toit (10934 votes):
+		<p>
+<li>Toit (10934 votes):</li><p>
 -	Example: Toit's high vote count implies a strong customer base and satisfaction.
 -	Use case: Explore Toit's menu, promotions, or any specific features that attract customers and enhance their dining experience.
-•	Big Chill (10853 votes):
+</p>
+<li>Big Chill (10853 votes):</li><p>
 -	Example: Big Chill's substantial votes suggest it is a favored choice among customers.
 -	Use case: Look into the unique selling points of Big Chill, such as its menu variety or nostalgic ambiance, to understand its appeal.
-•	Farzi Café (10098 votes):
+	</p>
+	
+<li>Farzi Café (10098 votes):</li><p>
 -	Example: Farzi Café's four-digit vote count highlights its popularity among diners.
 -	Use case: Analyze what distinguishes Farzi Café from competitors and investigate factors contributing to customer satisfaction.
-•	Truffles (9682 votes):
+</p>	
+<li>Truffles (9682 votes):</li><p>
 -	Example: Truffles' significant votes indicate a positive perception among the voting audience.
 -	Use case: Research Truffles' offerings, customer service, or marketing strategies that contribute to its success.
-•	For the lowest-ranked restaurants:
+</p>
+<h5>For the lowest-ranked restaurants: </h5>
 -	#Hastage, 13 Café, 44 Grills, 6 Packs Moms, 7 Colours Xpress Kitchen:
 -	Example: These establishments received comparatively lower votes, suggesting areas for improvement.
 -	Use case: Investigate customer reviews or feedback to identify specific issues and devise strategies for enhancement.
-	(Q4) Analyze if there is a correlation between the number of votes and the rating of a restaurant.?
-•	There are a strong relationship between the number of votes and rating of restaurants so when the number of voting increase so the aggregating will increase
+</p>
+</ul>
+</p>
+
+<li>(Q4) Analyze if there is a correlation between the number of votes and the rating of a restaurant.?</li>
+<p>There are a strong relationship between the number of votes and rating of restaurants so when the number of voting increase so the aggregating will increase</p>
+</ul>
+</p>
 o	Task03: Price Range vs. Online Delivery and Table Booking			
 	(Q5) Analyze if there is a relationship between the price range and the availability of online delivery and table booking.. .?	
       * there is no any relationship between them 				
