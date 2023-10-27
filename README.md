@@ -10,25 +10,25 @@ Cognifyz: Data Analyst Internship
  <ul>
 <h3>Dataset</h3> : 
 <h4>Columns</h4> :
-	<li>Restaurant ID : this is the ID of the Restaurant</li>
-o	<li>Restaurant Name : Name of the restaurant</li>
-o	<li>Country Code : code of the country</li>
-o	<li>City : the city customer live in it</li>
-o	<li>Address : The Full Address of the Customer</li>
-o	<li>Locality : the address of the City</li>
-o	<li>Locality Verbose : the long range of the address of City </li>
-o	<li>Longitude, Latitude : coordinates</li>
-o	<li>Cuisines :  the kind of the Kitchen( French – german – Japan- desserts )
-o	Average Cost for two : the average cost of 2 kinds of Kitchens</li>
-o	<li>Currency : the kind of coin</li>
-o	<li>Has Table booking : have a booking in the sceduale</li>
-o	<li>Has Online delivery : have a online delivery ?</li>
-o	<li>Is delivering now : are the delivering now ?</li>
-o	<li>Price range & Price Range Levels  : the pricing options or categories available at each restaurant. It helps users understand the cost range they can expect when dining at a particular restaurant. The column likely contains values such as “poor” , "Low," "Medium," , "High" to indicate the price range options.</li>
-o	<li>Aggregate rating :  the rate of the restaurant</li>
-o	<li>Rating color : the colors that customer rating it</li>
-o	<li>Rating text : here customer rate by using word</li>
-o	<li>Votes : how many people votes for each restaurant ?</li>
+<li>Restaurant ID : this is the ID of the Restaurant</li>
+<li>Restaurant Name : Name of the restaurant</li>
+<li>Country Code : code of the country</li>
+<li>City : the city customer live in it</li>
+<li>Address : The Full Address of the Customer</li>
+<li>Locality : the address of the City</li>
+<li>Locality Verbose : the long range of the address of City </li>
+<li>Longitude, Latitude : coordinates</li>
+<li>Cuisines :  the kind of the Kitchen( French – german – Japan- desserts )
+<li>Average Cost for two : the average cost of 2 kinds of Kitchens</li>
+<li>Currency : the kind of coin</li>
+<li>Has Table booking : have a booking in the sceduale</li>
+<li>Has Online delivery : have a online delivery ?</li>
+<li>Is delivering now : are the delivering now ?</li>
+<li>Price range & Price Range Levels  : the pricing options or categories available at each restaurant. It helps users understand the cost range they can expect when dining at a particular restaurant. The column likely contains values such as “poor” , "Low," "Medium," , "High" to indicate the price range options.</li>
+<li>Aggregate rating :  the rate of the restaurant</li>
+<li>Rating color : the colors that customer rating it</li>
+<li>Rating text : here customer rate by using word</li>
+<li>Votes : how many people votes for each restaurant ?</li>
  </ul>
 
 
