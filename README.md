@@ -229,29 +229,35 @@ These descriptors, recurrent in the assessments of diverse dining experiences, s
 <p>There are a strong relationship between the number of votes and rating of restaurants so when the number of voting increase so the aggregating will increase</p>
 </ul>
 </p>
-o	Task03: Price Range vs. Online Delivery and Table Booking			
-	(Q5) Analyze if there is a relationship between the price range and the availability of online delivery and table booking.. .?	
-      * there is no any relationship between them 				
-	(Q6) Determine if higher-priced restaurants are more likely to offer these services. ?			
-•	It seems like you've conducted an analysis and found that restaurants within the price range of [3 - 4] have a higher rating of 56.11%, suggesting that they may be more likely to offer services compared to those in the [1 - 2] price range with a rating of 43.89%.
+<p>
+<ul>
+<h4>Task03: Price Range vs. Online Delivery and Table Booking	</h4>		
+<li>Analyze if there is a relationship between the price range and the availability of online delivery and table booking.. .?	</li>
+      <p>there is no any relationship between them </p>
+	
+<li> Determine if higher-priced restaurants are more likely to offer these services. ?</li>			
+<p>
+It seems like you've conducted an analysis and found that restaurants within the price range of [3 - 4] have a higher rating of 56.11%, suggesting that they may be more likely to offer services compared to those in the [1 - 2] price range with a rating of 43.89%.
 In a professional context, this information can be valuable for decision-making and strategic planning. Here's how you might convey this in a more structured manner:
 
-Analysis Summary:
-
-1-	Price Range [3 - 4]:
--	Rating: 56.11%
--	Observation: Restaurants within the [3 - 4] price range exhibit a higher rating, indicating a positive correlation between pricing and customer satisfaction.
--	Implication: This suggests that establishments in this price range may be more inclined or better equipped to offer services that contribute to higher customer satisfaction.
-2-	Price Range [1 - 2]:
--	Rating: 43.89%
--	Observation: Restaurants in the [1 - 2] price range have a lower rating compared to the [3 - 4] range.
--	Implication: There may be opportunities for improvement or strategic adjustments in service offerings for restaurants in this price range to enhance customer satisfaction.
-3-	Recommendations:
--	Consider investigating the specific services that contribute to higher ratings in the [3 - 4] price range. Identify key factors driving customer satisfaction.
--	Explore potential service enhancements or adjustments for restaurants in the [1 - 2] price range to align with customer expectations and improve ratings.
-
--	Continuously monitor customer feedback and adapt service strategies accordingly to maintain or improve overall satisfaction levels.
-
+<h5>Analysis Summary: </h5>
+<ul>
+<h6>Price Range [3 - 4]:</h6>
+<li>Rating: 56.11%</li>
+<li>Observation: Restaurants within the [3 - 4] price range exhibit a higher rating, indicating a positive correlation between pricing and customer satisfaction.</li>
+<li>Implication: This suggests that establishments in this price range may be more inclined or better equipped to offer services that contribute to higher customer satisfaction.</li>
+<h6>Price Range [1 - 2]:</h6>
+<li>Rating: 43.89%</li>
+<li>Observation: Restaurants in the [1 - 2] price range have a lower rating compared to the [3 - 4] range.</li>
+<li>Implication: There may be opportunities for improvement or strategic adjustments in service offerings for restaurants in this price range to enhance customer satisfaction.</li>
+<h6>Recommendations:</h6>
+<li>Consider investigating the specific services that contribute to higher ratings in the [3 - 4] price range. Identify key factors driving customer satisfaction.</li>
+<li>Explore potential service enhancements or adjustments for restaurants in the [1 - 2] price range to align with customer expectations and improve ratings.</li>
+<li>Continuously monitor customer feedback and adapt service strategies accordingly to maintain or improve overall satisfaction levels.</li>
+  </ul>
+</p>
+</ul>
+</p>
 Thanks You
 											
 
