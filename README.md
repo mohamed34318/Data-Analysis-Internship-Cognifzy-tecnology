@@ -8,8 +8,8 @@ Cognifyz: Data Analyst Internship
  successful completion of Level 3 ( any 2 task out of 3) will further enhance your chances of receiving
  a stipend</p>
  <ul>
-<h3>Dataset</h3> : 
-<h4>Columns</h4> :
+	 
+<h4>Columns : </h4>
 <li>Restaurant ID : this is the ID of the Restaurant</li>
 <li>Restaurant Name : Name of the restaurant</li>
 <li>Country Code : code of the country</li>
@@ -32,27 +32,30 @@ Cognifyz: Data Analyst Internship
  </ul>
 
 
-
-
-
-Data prepare : 
-1-	Search about Duplicate Values  :  Done
-2-	Search about NullValues & remove it : Done
-3-	DataType of each column : Done 
-4-	Remove useless Columns : Done 
-5-	remove Null Values or [ column numeric : replace with mode or median , Categorical : common features or Not Defined ] or fill it with 0 
-6-	Rename Columns  : Done 
-7-	Check each row is organized and categorized : Done 
-8-	Remove unnecessary Formats :  Done 
+<p>
+<h3>Data prepare :</h3>
+<ul>
+<li>Search about Duplicate Values  :  Done</li>
+<li>Search about NullValues & remove it : Done</li>
+<li>DataType of each column : Done </li>
+<li>Remove useless Columns : Done </li>
+<li>remove Null Values or [ column numeric : replace with mode or median , Categorical : common features or Not Defined ] or fill it with 0 </li>
+<li>Rename Columns  : Done </li>
+<li>Check each row is organized and categorized : Done </li>
+<li>Remove unnecessary Formats :  Done </li>
+</ul>
+</p>
+<P>
+<ol>
 Business Questions :
-•	Level 01 : 
-o	Task01: Top Cuisines :					
-	(Q1)  Determine the top three most common cuisines in the dataset ?	
--	Here we find the best 3 common cuisines in all Dataset this depend on different Features like [ Voting – rating – rate Name – count customer ]  so after some analysis I found the top 3 common cuisines are( North Indian, Mughlai - North Indian - North Indian, Chinese ) BUT if we use other features we will find the best common cuisines are 
-( North indian - North Indian ,Chinese  - Chinese  -  North Indian  , Mughlai - Café – Italian )									
-	(Q2) Calculate the percentage of restaurants that serve each of the top cuisines ?
--		It was [ barbeque Nation – pind Balluchi – Punjab Grill ……] these restaurant serva the most or the top Cuisines you can find more restaurants in Dashboard Level 1
-
+<p><h3>Level 01 :</h3> 
+<h4>Task01: Top Cuisines :</h4>					
+  <li>Determine the top three most common cuisines in the dataset ?</li>	
+<p>Here we find the best 3 common cuisines in all Dataset this depend on different Features like [ Voting – rating – rate Name – count customer ]  so after some analysis I found the top 3 common cuisines are( North Indian, Mughlai - North Indian - North Indian, Chinese ) BUT if we use other features we will find the best common cuisines are 
+( North indian - North Indian ,Chinese  - Chinese  -  North Indian  , Mughlai - Café – Italian )	</p>								
+<li>Calculate the percentage of restaurants that serve each of the top cuisines ?</li>
+<P>It was [ barbeque Nation – pind Balluchi – Punjab Grill ……] these restaurant serva the most or the top Cuisines you can find more restaurants in Dashboard Level 1
+</P>
 								
 o	Task02: City Analysis			
 	(Q3) Identify the city with the highest number of restaurants in the dataset ?	
